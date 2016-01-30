@@ -1,0 +1,5 @@
+date: 11/13/1985
+name: Bryan Zinser
+amount, dollars: 123
+cents: 45
+payee: Nala Inc.
